@@ -1,0 +1,10 @@
+myenv/
+__pycache__/
+datasets/
+runs/
+*.pt
+Searching-gamepad-2/
+images/
+faces/
+videos/
+plates/

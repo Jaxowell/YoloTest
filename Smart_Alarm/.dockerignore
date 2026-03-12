@@ -1,0 +1,5 @@
+myenv/
+datasets/
+__pycache__/
+*.git
+runs/
